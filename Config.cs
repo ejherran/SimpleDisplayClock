@@ -21,8 +21,8 @@ namespace SimpleDisplayClock
 		[ReloadRequired]
 		public bool UseDecoration;
 		
-		[Label("Use military time format?")]
-		[Tooltip("Displays the time in 24-hour format.")]
+		[Label("Use 24-hour format?")]
+		[Tooltip("Shows the time in military format, from 00:00 to 23:59.")]
 		[DefaultValue(false)]
 		public bool UseMilitary;
 		
