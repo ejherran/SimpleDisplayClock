@@ -1,0 +1,9 @@
+displayName = Simple Display Clock
+author = ejherran
+version = 0.1
+homepage = https://github.com/ejherran/SimpleDisplayClock
+hideResources = false
+hideCode = false
+includeSource = true
+includePDB = true
+buildIgnore = .gitattributes, .gitignore, .git\*, .vs\*, .idea\*, bin\*, obj\*, Thumbs.db, readme.md
